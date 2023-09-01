@@ -22,18 +22,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 84,
-    "timeWeek": 111,
-    "timeMonth": 133,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
+    "time": 142,
+    "timeDay": 198,
+    "timeWeek": 131,
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {
+      "2023-09-01": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -60,18 +62,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 331,
     "timeWeek": 327,
     "timeMonth": 324,
     "timeYear": 324,
-    "dailyMinutesDown": {
-      "2023-09-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
