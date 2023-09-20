@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/techrad.eu.ico",
     "slug": "techrad",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1248,
-    "timeDay": 1171,
-    "timeWeek": 1108,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1262,
+    "timeDay": 1498,
+    "timeWeek": 1198,
     "timeMonth": 1250,
-    "timeYear": 1248,
-    "dailyMinutesDown": {
-      "2023-09-19": 5
-    }
+    "timeYear": 1262,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 75,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 123,
+    "time": 122,
+    "timeDay": 80,
+    "timeWeek": 128,
+    "timeMonth": 124,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 159,
-    "timeWeek": 181,
-    "timeMonth": 166,
-    "timeYear": 163,
+    "time": 169,
+    "timeDay": 350,
+    "timeWeek": 206,
+    "timeMonth": 175,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 310,
-    "timeWeek": 294,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "time": 323,
+    "timeDay": 313,
+    "timeWeek": 290,
+    "timeMonth": 325,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2023-09-13": 17
     }
