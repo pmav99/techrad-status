@@ -15,7 +15,9 @@
     "timeWeek": 1230,
     "timeMonth": 1238,
     "timeYear": 1252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-23": 0
+    }
   },
   {
     "name": "Google",
