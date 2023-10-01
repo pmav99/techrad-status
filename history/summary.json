@@ -4,19 +4,19 @@
     "url": "https://techrad.eu",
     "icon": "https://icons.duckduckgo.com/ip3/techrad.eu.ico",
     "slug": "techrad",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1232,
-    "timeDay": 1248,
-    "timeWeek": 1166,
+    "timeDay": 1239,
+    "timeWeek": 1170,
     "timeMonth": 1206,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2023-10-01": 6
+      "2023-10-01": 0
     }
   },
   {
@@ -33,7 +33,7 @@
     "time": 123,
     "timeDay": 61,
     "timeWeek": 94,
-    "timeMonth": 118,
+    "timeMonth": 113,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2023-09-21": 20
