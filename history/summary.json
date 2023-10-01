@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 1232,
     "timeDay": 1125,
-    "timeWeek": 1153,
+    "timeWeek": 1159,
     "timeMonth": 1205,
     "timeYear": 1232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-01": 0
+    }
   },
   {
     "name": "Google",
