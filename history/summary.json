@@ -6,16 +6,18 @@
     "slug": "techrad",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1304,
-    "timeDay": 3170,
-    "timeWeek": 1474,
+    "timeDay": 1368,
+    "timeWeek": 1493,
     "timeMonth": 1302,
     "timeYear": 1304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "Google",
