@@ -4,7 +4,7 @@
     "url": "https://techrad.eu",
     "icon": "https://icons.duckduckgo.com/ip3/techrad.eu.ico",
     "slug": "techrad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1287,
     "timeYear": 1263,
     "dailyMinutesDown": {
+      "2023-10-26": 0,
       "2023-10-13": 19
     }
   },
